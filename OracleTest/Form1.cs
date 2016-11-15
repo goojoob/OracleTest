@@ -31,9 +31,7 @@ namespace OracleTest
             try
             {
                 oracleDB = new Database(ip, port, service, user, pass);
-                oracleDB.oracleOpenConnection();
                 oracleDB.executeSQL(sqlTest);
-                oracleDB.oracleCloseConnection();
                 lblResultTest.Text = "TEST OK";
             }
             catch (Exception ex)

@@ -37,7 +37,7 @@ namespace OracleTest
 
 
 
-        public void oracleOpenConnection()
+        private void oracleOpenConnection()
         {
             try
             {
@@ -50,7 +50,7 @@ namespace OracleTest
             }
         }
 
-        public void oracleCloseConnection()
+        private void oracleCloseConnection()
         {
             try
             {
