@@ -1,0 +1,10 @@
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\bin\Debug\OracleTest.exe.config
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\bin\Debug\OracleTest.exe
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\bin\Debug\OracleTest.pdb
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.exe
+c:\users\antonio\documents\visual studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.pdb
+c:\Users\antonio\Documents\Visual Studio 2013\Projects\OracleTest\OracleTest\bin\Debug\Oracle.DataAccess.dll
+c:\Users\antonio\Documents\Visual Studio 2013\Projects\OracleTest\OracleTest\obj\Debug\OracleTest.Form1.resources
